@@ -7,7 +7,7 @@ repo_url: https://github.com/hantang/wayback-opensource-guide
 theme:
   name: material
   icon:
-      logo: fontawesome/brands/git-alt
+      logo: material/open-source-initiative
   font:
     text: Source Sans Pro, sans-serif
     code: Source Code Pro, Menlo, DejaVu Sans Mono, Lucida Console, monospace
