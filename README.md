@@ -1,22 +1,3 @@
-# mkdocs-material-template
+# wayback-opensource-guide
 
-mkdocs material template
-
-
-Example: 
-```shell
-# python 3
-# install dependencies
-pip install mkdocs-material
-
-# init project
-mkdir -p project && cd $_
-mkdocs new .
-echo "theme: material" >> mkdcos.yml
-
-# serve
-mkdocs serve
-
-# build
-mkdocs build
-```
+A back up of [《开源世界旅行手册》](https://i.linuxtoy.org/docs/guide/)（版权 © 2009 Kardinal）。
