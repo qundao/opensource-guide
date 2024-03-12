@@ -1,17 +1,82 @@
-# Welcome to MkDocs
+# 开源世界旅行手册
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+版权 © 2009 Kardinal
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## **目录**
 
-## Project layout
+- [授权](pr01.md)
+- [致谢](pr02.md)
+- [序言](pr03.md)
+- [更新纪录](pr04.md)
+- [导读](pr05.md)
+- [如何写作科技文档](pr06.md)
+- [I. 气候](pt01.md)
+    - [1. GUI? CLI?](ch01.md)
+    - [2. UNIX 缩写风格](ch02.md)
+    - [3. 版本号的迷雾](ch03.md)
+    - [4. Vim 还是 Emacs](ch04.md)
+    - [5. DocBook 还是 TeX](ch05.md)
+    - [6. 完全用 Gnu/Linux 工作](ch06.md)
+    - [7. 病毒](ch07.md)
+    - [8. 磁盘 分区](ch08.md)
+    - [9. 文件系统](ch09.md)
+    - [10. 发行版介绍](ch10.md)
+    - [11. 编程语言](ch11.md)
+    - [12. 无根的根：无名师的 Unix 心传](ch12.md)
+- [II. 地理](pt02.md)
+    - [13. 基础知识](ch13.md)
+    - [14. 命令系统](ch14.md)
+    - [15. 基本系统](ch15.md)
+    - [16. 软件管理](ch16.md)
+    - [17. 核心工具集](ch17.md)
+    - [18. 编译工具链](ch18.md)
+    - [19. 图形界面](ch19.md)
+    - [20. 国际化](ch20.md)
+    - [21. 内核](ch21.md)
+    - [22. Grub](ch22.md)
+    - [23. 服务器](ch23.md)
+    - [24. Vim 编辑器](ch24.md)
+    - [25. Emacs 入门](ch25.md)
+    - [26. 正则表达式](ch26.md)
+    - [27. docbook 指南](ch27.md)
+    - [28. Git 版本控制系统](ch28.md)
+    - [29. ConTeXt 入门指南](ch29.md)
+- [III. 景观](pt03.md)
+    - [30. 终极 Shell -- ZSH](ch30.md)
+    - [31. 完美工作站 Archlinux](ch31.md)
+    - [32. 组织你的意念：Emacs org mode](ch32.md)
+    - [33. Zsh+screen](ch33.md)
+    - [34. gentoo stage3](ch34.md)
+    - [35. 硬件问题](ch35.md)
+    - [36. 网络设置](ch36.md)
+    - [37. 自制 LiveCD](ch37.md)
+    - [38. awesome](ch38.md)
+    - [39. openbox 工作环境](ch39.md)
+    - [40. Emacs muse](ch40.md)
+    - [41. 写作工具链](ch41.md)
+    - [42. 使用 lftp](ch42.md)
+    - [43. Firefox 使用技巧](ch43.md)
+    - [44. FVWM](ch44.md)
+- [IV. 地质](pt04.md)
+    - [45. Unix](ch45.md)
+    - [46. Gnu](ch46.md)
+    - [47. 软件业自由之神——Richard Stallman](ch47.md)
+    - [48. Linux](ch48.md)
+    - [49. GNOME与KDE的战争](ch49.md)
+    - [50. Vim Emacs](ch50.md)
+    - [51. 年代纪](ch51.md)
+    - [52. 我的选择](ch52.md)
+    - [53. 补遗](ch53.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## **范例清单**
+
+- 14.1. [urxvt 配置 ~/.Xresources](ch14s03.md#id3062822)
+- 20.1. [输入法配置 .profile](ch20s04.md#id3091739)
+- 24.1. [Vim 配置 /etc/vim/vimrc](ch24s04.md#id3098716)
+- 25.1. [emacs 配置 ~/.emacs](ch25s04.md#id3105915)
+- 25.2. [emacs 大纲模式](ch25s17.md#id3111476)
+- 27.1. [DocBook 参数样式表](ch27s20.md#id3126938)
+- 30.1. [Zsh 配置文件 .zshrc](ch30s04.md#id3146325)
+- 38.1. [awesome 配置](ch38s05.md#id3160077)
