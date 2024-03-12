@@ -143,4 +143,7 @@ nav:
     - 51. 年代纪: ch51.md
     - 52. 我的选择: ch52.md
     - 53. 补遗: ch53.md
+  - 博客文章:
+    - archives/opensource-guide.md
+    - archives/opensource-guide-01.md
   - 原版备份: guide/index.md
