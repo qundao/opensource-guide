@@ -6,6 +6,7 @@ repo_url: https://github.com/qundao/opensource-guide
 
 theme:
   name: material
+  language: "zh"
   icon:
       logo: material/open-source-initiative
   font:
