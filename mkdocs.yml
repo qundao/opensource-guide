@@ -1,8 +1,8 @@
 site_name: 开源世界旅行手册
-site_url: https://hantang.github.io/wayback-opensource-guide
+site_url: https://qundao.github.io/opensource-guide
 site_description: 
 copyright: A backup of <a href="https://i.linuxtoy.org/docs/guide/">《开源世界旅行手册》</a> 版权 © 2009 Kardinal
-repo_url: https://github.com/hantang/wayback-opensource-guide
+repo_url: https://github.com/qundao/opensource-guide
 
 theme:
   name: material
